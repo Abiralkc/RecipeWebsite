@@ -4,3 +4,4 @@ export {default as Works} from './Works/Works';
 export {default as Welcome} from './Welcome/Welcome';
 export {default as Recipes} from './Recipe/Recipes';
 export {default as Meals} from './Meals/Meals';
+export {default as Footer} from './Footer/Footer';
