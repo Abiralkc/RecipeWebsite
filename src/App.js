@@ -1,5 +1,5 @@
 import {BrowserRouter as Router,Switch,Route,Link} from "react-router-dom";
-import {Hero,Works,Welcome} from './components';
+import {Hero,Works,Welcome,Recipes} from './components';
 import GlobalStyles from './GlobalStyles';
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
       <Hero/>
       <Works/>
       <Welcome/>
+      <Recipes/>
 
 
     </Router>
